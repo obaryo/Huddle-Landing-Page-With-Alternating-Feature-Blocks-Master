@@ -222,6 +222,7 @@ span {
     border: 1px solid #ffff;
 }
 .icon .fab:hover {
+    cursor: pointer;
     border-color: var(--clr-primary-600);
     color: var(--clr-primary-600);
 }
