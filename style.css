@@ -251,6 +251,9 @@ span {
         flex-direction: row;
         justify-content: space-between;
     }
+    .section--two {
+        padding-block-start: 6rem;
+    }
     .description {
         width: 75%;
         padding-top: 1.5rem;
