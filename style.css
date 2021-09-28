@@ -58,6 +58,7 @@ h1,p {
 .btn:hover,
 .button:hover {
     opacity: 70%;
+    transition: 0.3s;
 }
 .description {
     padding-bottom: 2rem;
@@ -225,6 +226,7 @@ span {
     cursor: pointer;
     border-color: var(--clr-primary-600);
     color: var(--clr-primary-600);
+    transition: 0.3s;
 }
 .icon + .icon {
     margin-left: 1rem;
